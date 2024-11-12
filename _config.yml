@@ -87,7 +87,20 @@ content:
          
         description: | # this will include new lines to allow paragraphs
           Security Officer traning to equip officers with essential skills. Teaches basic skills,patrol methods, and how to respond to emergencies, also focuses on more advanced skills, such as handling crises, writing reports, and using defensive tactics.       
-     
+   
+      - title:  # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: SOR Traning Center
+        link: https://www.sortrainingcenter.com/
+        caption: 
+        sub_title: Phase 4
+        quote: >
+         
+        description: | # this will include new lines to allow paragraphs
+           Firearm training teaches officers how to safely use and handle firearms. It covers gun safety, shooting skills, legal rules, and when to use force, preparing officers for high-risk situations.
+
   - title:  # Title for the section
     layout: list # Type of content section (list/text)
     content:
