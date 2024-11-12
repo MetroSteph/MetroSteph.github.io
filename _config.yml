@@ -72,24 +72,23 @@ content:
         quote: >
          
         description: | # this will include new lines to allow paragraphs
-         Experienced armed security officer trained to handle emerygency situations, conducting regular patrols, and repsonding to alarms and incidents.
-   
-   
-    - title: Qualifications # Title for the section
+                     Experienced armed security officer trained to handle emerygency situations, conducting regular patrols, and repsonding to alarms and incidents.
+
+  - title: Qualifications # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: SOR Traning Center
         link: https://www.sortrainingcenter.com/
-         sub_title: Phase 1 & 2
+        # link_text: boringcompany.com
+        sub_title: Phase 1 & 2
         caption: 
         quote: >
          
         description: | # this will include new lines to allow paragraphs
           Security Officer traning to equip officers with essential skills. Teaches basic skills,patrol methods, and how to respond to emergencies, also focuses on more advanced skills, such as handling crises, writing reports, and using defensive tactics.       
    
-      
-       - title: Qualifications  # Title for the section
+      - title:  # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
