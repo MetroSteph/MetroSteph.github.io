@@ -74,6 +74,7 @@ content:
         description: | # this will include new lines to allow paragraphs
                      Experienced armed security officer trained to handle emerygency situations, conducting regular patrols, and repsonding to alarms and incidents.
 
+
   - title: Qualifications # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -88,6 +89,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Security Officer traning to equip officers with essential skills. Teaches basic skills,patrol methods, and how to respond to emergencies, also focuses on more advanced skills, such as handling crises, writing reports, and using defensive tactics.       
    
+   
       - title:  # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -101,7 +103,7 @@ content:
         description: | # this will include new lines to allow paragraphs
            Firearm training teaches officers how to safely use and handle firearms. It covers gun safety, shooting skills, legal rules, and when to use force, preparing officers for high-risk situations.
 
-  - title: A Little More About Me
+- title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in security and Cybersecurity some of my other interests and hobbies are:
