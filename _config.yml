@@ -7,25 +7,25 @@ version: 2
 
 # Personal info
 name: Stephanie Montoya
-title: Senior Network System Administrator
+title: Metro Technology Center Student 
 email: stephanie.montoya@st.metrotech.edu
-website: www.github.com/sproogen/resume-theme
+website: 
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username:
+github_username:  MetroSteph
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+instagram_username: 
+linkedin_username: 
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+youtube_username:
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
