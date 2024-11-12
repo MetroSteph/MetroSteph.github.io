@@ -53,7 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>Video gaming</mark> and <mark>Being a nerd</mark>
 
 content:
-  - title: Experience # Title for the section
+- title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
