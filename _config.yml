@@ -53,7 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>Video gaming</mark> and <mark>Being a nerd</mark>
 
 content:
-- title: Experience # Title for the section
+  - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -102,7 +102,7 @@ content:
         description: | # this will include new lines to allow paragraphs
            Firearm training teaches officers how to safely use and handle firearms. It covers gun safety, shooting skills, legal rules, and when to use force, preparing officers for high-risk situations.
 
-- title: A Little More About Me
+  - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in security and Cybersecurity some of my other interests and hobbies are:
