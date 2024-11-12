@@ -74,6 +74,7 @@ content:
         description: | # this will include new lines to allow paragraphs
                            Experienced armed security officer trained to handle emerygency situations, conducting regular patrols, and repsonding to alarms and incidents.
 
+
   - title: Qualifications # Title for the section
     layout: list # Type of content section (list/text)
     content:
