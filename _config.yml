@@ -88,8 +88,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Security Officer traning to equip officers with essential skills. Teaches basic skills,patrol methods, and how to respond to emergencies, also focuses on more advanced skills, such as handling crises, writing reports, and using defensive tactics.       
    
-   
-      - title: Qualifications  # Title for the section
+          - title: Qualifications  # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
