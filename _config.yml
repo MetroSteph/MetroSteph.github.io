@@ -78,8 +78,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: SOR/
-        link: 
+        title: SOR Traning Center
+        link: http://www.sortraningcanter.com
         # link_text: boringcompany.com
         sub_title: Phase 1 & 2
         caption: 
