@@ -71,7 +71,7 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
          
-        description: | # this will include new lines to allow paragraphs
+        description: Experienced armed security officer trained to handle emerygency situations, conducting regular patrols, and repsonding to alarms and incidents. # this will include new lines to allow paragraphs
          
 
   - title: Qualifications # Title for the section
