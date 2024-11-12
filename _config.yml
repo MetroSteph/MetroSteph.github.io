@@ -101,7 +101,7 @@ content:
         description: | # this will include new lines to allow paragraphs
            Firearm training teaches officers how to safely use and handle firearms. It covers gun safety, shooting skills, legal rules, and when to use force, preparing officers for high-risk situations.
 
-  - title:  # Title for the section
+  - title: list  # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
