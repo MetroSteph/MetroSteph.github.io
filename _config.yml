@@ -60,7 +60,7 @@ content:
         title: Oklahoma Heart Hospital
         link: 
         # link_text: Project Website
-        sub_title: Armed Security Officer II
+        sub_title: Security Officer II
         caption: January 2017 - Present
         additional_links:
           - title:  
@@ -79,15 +79,15 @@ content:
     content:
       - layout: left
         title: SOR Traning Center
-        link: http://www.sortraningcanter.com
+        link: https://www.sortrainingcenter.com/
         # link_text: boringcompany.com
         sub_title: Phase 1 & 2
         caption: 
         quote: >
          
         description: | # this will include new lines to allow paragraphs
-          Security Officer traning to equip officers with essential skills. Teaches basic skills,patrol methods, and how to respond to emergencies, also focuses on more advanced skills, such as handling crises, writing reports, and using defensive tactics.
-          
+          Security Officer traning to equip officers with essential skills. Teaches basic skills,patrol methods, and how to respond to emergencies, also focuses on more advanced skills, such as handling crises, writing reports, and using defensive tactics.       
+  
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
