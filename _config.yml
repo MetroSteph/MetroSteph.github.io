@@ -105,14 +105,14 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: SOR Traning Center
-        link: https://www.sortrainingcenter.com/
+        title: Crisis Intervention Team (CIT) 
+        link: https://oklahoma.gov/odmhsas/recovery/criminal-justice/cit.html
         caption: 
-        sub_title: Phase 4
+        sub_title: Crisis Intervention Traning 
         quote: >
          
         description: | # this will include new lines to allow paragraphs
-           Firearm training teaches officers how to safely use and handle firearms. It covers gun safety, shooting skills, legal rules, and when to use force, preparing officers
+            a community program that teaches people how to respond to mental health crises. The training is designed to help people de-escalate crises, assess the need for emergency treatment, and connect people with professional services.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
